@@ -16,3 +16,7 @@ time: Python module used for time-related tasks. In this project, it’s used to
 Open Notify API: Used to fetch the real-time location of the ISS.
 
 Sunrise-Sunset API: Used to fetch the real-time sunrise and sunset times for the user’s location. This helps determine whether it’s dark outside.
+
+
+![app img](https://github.com/bardack134/A-Real-Time-International-Space-Station-Tracker/assets/142977989/70a01a4d-6e4b-4657-92a8-6d5019b9ea8e)
+
